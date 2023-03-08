@@ -1,0 +1,9 @@
+﻿  DesafioFInalQuark.cpp
+  Modelo.cpp
+C:\Users\zaker\OneDrive\Escritorio\DesafioFInalQuark\DesafioFInalQuark\Modelo.cpp(278,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\zaker\OneDrive\Escritorio\DesafioFInalQuark\DesafioFInalQuark\Modelo.cpp(284,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\zaker\OneDrive\Escritorio\DesafioFInalQuark\DesafioFInalQuark\Modelo.cpp(292,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\zaker\OneDrive\Escritorio\DesafioFInalQuark\DesafioFInalQuark\Modelo.cpp(299,31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Presentador.cpp
+  Generando código...
+  DesafioFInalQuark.vcxproj -> C:\Users\zaker\OneDrive\Escritorio\DesafioFInalQuark\x64\Debug\DesafioFInalQuark.exe
